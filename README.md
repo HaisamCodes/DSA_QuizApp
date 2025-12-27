@@ -14,11 +14,7 @@
 - Timer for each question
 - Score calculation
 
-- 4. Peers Download Kaise Karenge?
-Aap apne peers ko apni repository ka link bhej dein. Woh wahan ja kar:
 
-Green "Code" button par click karenge.
-
-"Download ZIP" select karenge.
+ 
 
 ZIP ko extract karke apne Qt Creator mein upar diye gaye instructions ke mutabiq khol lenge.
